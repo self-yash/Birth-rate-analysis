@@ -10,5 +10,6 @@ Preprocessing Data-
 5. Fortunately in our dataset around 400 rows are there with missing values. Since our dataset is huge containing 15K rows removing 400 rows doesn't cause much loss of information and hence giving rise to 'standardized_births without missing values.csv'. (I just manually deleted them >.< )
 
 Performing SVD and PCA-
+
 6. SVD and PCA can only be performed on numerical values so we will be completely ignoring the categorical columns 'gender' for this project which comes with the cost of losing information.
 7. Now just perform PCA and SVD with codes 'svd code.py' and 'pca code.py' 
