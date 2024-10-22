@@ -1,4 +1,4 @@
- is a project about Birth rate analysis on which we will be predicting the births in future years of Males and Females but firstly we are aiming to perform PCA and SVD on the dataset used for the project
+This is a project about Birth rate analysis on which we will be predicting the births in future years of Males and Females but firstly we are aiming to perform PCA and SVD on the dataset used for the project
 
 Steps for Performing PCA and SVD:
 
